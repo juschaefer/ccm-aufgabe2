@@ -1,0 +1,25 @@
+{
+  "name": "ccm-aufgabe2",
+  "version": "1.0.0",
+  "description": "> Schreiben Sie eine *ccm*-Komponente, die einen Button an die Stelle des entsprechenden Custom Elements rendert. Wenn man auf den Button drückt, erscheint jeweils ein weiterer Stern. > > Die HTML- und UTF-8-Codes für Sterne finden Sie unter [W3Schools: UTF-8 Miscellaneous Symbols](https://www.w3schools.com/charsets/ref_utf_symbols.asp)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juschaefer/ccm-aufgabe2.git"
+  },
+  "keywords": [
+    "ccm"
+  ],
+  "author": "Julian Schäfer <Julian.Schaefer@h-brs.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juschaefer/ccm-aufgabe2/issues"
+  },
+  "homepage": "https://github.com/juschaefer/ccm-aufgabe2#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.2"
+  }
+}
